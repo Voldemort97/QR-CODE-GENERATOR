@@ -1,16 +1,16 @@
-# QR-CODE-GENERATOR
-A simple Python-based desktop app that lets you create and save QR codes from any text or URL. Built with qrcode, Pillow, and Tkinter for an easy-to-use graphical interface.
+# 📱 QR Code Generator
 
-# QR Code Generator 🧾🔳
+A simple Python desktop application that lets you generate and save QR codes from any text or URL using a GUI built with Tkinter.
 
-A simple Python GUI app to generate and save QR codes from any text or URL.
+## 🚀 Features
+- Easy-to-use graphical interface
+- Accepts plain text or URLs
+- Saves QR code as a PNG image
+- No internet connection required
 
-## Features
-- Enter text or link
-- Generate a QR code
-- Save it as a PNG file
+## 🖥️ Run the App
 
-## Run the App
+1. Clone this repository:
 ```bash
-pip install -r requirements.txt
-python qr_generator.py
+git clone https://github.com/your-username/qr-code-generator.git
+cd qr-code-generator
